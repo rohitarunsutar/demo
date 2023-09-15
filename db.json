@@ -17,26 +17,24 @@
     {"artifactNames":"act_ru_task"},
     {"artifactNames":"Claimtransmission_view"}
   ],
-  "tableData": {
-    "act_hi_taskinst": [
-      { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
-      { "id": 2, "columnNames": "PROC_INST_ID_", "columnTypes": "Text" },
-      { "id": 3, "columnNames": "BUSINESS_KEY_", "columnTypes": "Text" }
-    ],
-    "act_hi_procinst": [
-      { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
-      { "id": 2, "columnNames": "first_name", "columnTypes": "Text" },
-      { "id": 3, "columnNames": "last_name", "columnTypes": "Text" }
-    ],
-    "act_ru_task": [
-      { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
-      { "id": 2, "columnNames": "START_TIME_", "columnTypes": "Date" },
-      { "id": 3, "columnNames": "END_TIME_", "columnTypes": "Date" }
-    ],
-    "Claimtransmission_view": [
-      { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
-      { "id": 2, "columnNames": "CASE_INST_ID_", "columnTypes": "Text" },
-      { "id": 3, "columnNames": "TENANT_ID_", "columnTypes": "Text" }
-    ]
-  }
+  "act_hi_taskinst": [
+    { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
+    { "id": 2, "columnNames": "PROC_INST_ID_", "columnTypes": "Text" },
+    { "id": 3, "columnNames": "BUSINESS_KEY_", "columnTypes": "Text" }
+  ],
+  "act_hi_procinst": [
+    { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
+    { "id": 2, "columnNames": "first_name", "columnTypes": "Text" },
+    { "id": 3, "columnNames": "last_name", "columnTypes": "Text" }
+  ],
+  "act_ru_task": [
+    { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
+    { "id": 2, "columnNames": "START_TIME_", "columnTypes": "Date" },
+    { "id": 3, "columnNames": "END_TIME_", "columnTypes": "Date" }
+  ],
+  "Claimtransmission_view": [
+    { "id": 1, "columnNames": "ID_", "columnTypes": "Text" },
+    { "id": 2, "columnNames": "CASE_INST_ID_", "columnTypes": "Text" },
+    { "id": 3, "columnNames": "TENANT_ID_", "columnTypes": "Text" }
+  ]
 }
